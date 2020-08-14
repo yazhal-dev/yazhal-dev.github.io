@@ -63,6 +63,7 @@ p {
 
 
 
+
 /*.custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
       outline: none!important;
@@ -184,8 +185,6 @@ transform: rotate(-135deg);
 }
 
 .card:hover {
-  margin-top: 0em !important;
-  margin-bottom: 0em !important;
   -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
   -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
   box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
@@ -218,7 +217,7 @@ transform: rotate(-135deg);
 @media only screen and (min-width: 768px) {
   #portfolio {
     width: auto;
-    height: 30em;
+    height: 55em;
   }
 }
 
