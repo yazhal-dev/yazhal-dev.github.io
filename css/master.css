@@ -14,8 +14,8 @@ html {
 }
 
 body {
-  background: rgb(238,67,70);
-  background: linear-gradient(0deg, rgba(238,67,70,1) 0%, rgba(245,118,66,1) 100%);
+  background: #cc00cc;
+  background: linear-gradient(to right, #cc00cc, #b300b3);
   min-height: 100%;
   background-repeat: no-repeat;
   /*background-attachment: fixed;*/
